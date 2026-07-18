@@ -1,0 +1,27 @@
+{
+  "name": "opencode-codex-delegator",
+  "version": "2.0.0",
+  "language": "zh-TW",
+  "entry": "SKILL.md",
+  "purpose": "Codex-controlled OpenCode delegation with multi-agent pipelines, session isolation, verification gates, and safe execution.",
+  "files": [
+    "CHANGELOG.md",
+    "README.md",
+    "SKILL.md",
+    "examples/task-implement.md",
+    "examples/task-plan.md",
+    "examples/task-review.md",
+    "hooks/validate-delegation.ps1",
+    "hooks/validate-delegation.sh",
+    "manifest.json",
+    "pipelines/new-project-pipeline.md",
+    "pipelines/standard-pipeline.md",
+    "references/cli-reference.md",
+    "references/workflow.md",
+    "scripts/invoke-opencode.ps1",
+    "scripts/invoke-opencode.sh",
+    "scripts/preflight.ps1",
+    "scripts/preflight.sh",
+    "templates/AGENTS-snippet.md"
+  ]
+}
